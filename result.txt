@@ -1,0 +1,10 @@
+List of text files: result.txt, IF.txt, Limerick-1.txt
+Total number of words in result.txt: 53
+Total number of words in IF.txt: 287
+Total number of words in Limerick-1.txt: 32
+Grand total number of words: 372
+Top 3 words with maximum counts in IF.txt:
+you: 14
+If: 13
+can: 12
+IP Address of the machine: 129.137.96.4
